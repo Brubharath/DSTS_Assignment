@@ -15,3 +15,5 @@ git remote add origin  https://github.com/Brubharath/DSTS_Assignment.git
 
 git push -u origin master
 
+
+The files are added as branches
